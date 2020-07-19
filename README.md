@@ -5,3 +5,5 @@ Duplicates the facilities of the Sparkfun MIDI shield, but with connectors for b
 as I usually mount these things on the enclosure and wire them to the board.
 
 Also has connectors for SD card reader and a small OLED display to plug into.
+
+Basically a much cheaper alternative to the sparkfun shield, with some extra flexibility for more complex projects.
