@@ -1,0 +1,91 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=MidiRecorderPlayerMega
+*Date=12:08:34
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;41.0464;-4.7751;0;Bottom;Copper Fill31
+2;;;39.7129;-39.6747;0;Bottom;Copper Fill44
+3;220;THT;9.2964;-32.891;-90;Bottom;220
+4;;DIP (Dual Inline) [THT];15.6464;-26.541;0;Bottom;6N138
+5;;;79.1464;-44.3229;0;Bottom;Copper Fill8
+6;;;79.1464;-16.3829;0;Bottom;Copper Fill20
+7;;;81.8388;-7.2135;0;Bottom;Copper Fill26
+8;;;77.1175;-14.0215;-90;Bottom;SD Reader
+9;;;79.1464;-8.7629;0;Bottom;Copper Fill27
+10;;;68.9864;-12.4713;0;Bottom;Copper Fill23
+11;330;THT;34.6964;-30.351;-90;Bottom;330
+12;;;38.5064;-46.9645;0;Bottom;Copper Fill5
+13;;300 mil [THT];8.001;-17.651;180;Bottom;1N914
+14;330;THT;29.6164;-30.351;-90;Bottom;330
+15;;;24.5237;-1.6763;0;Bottom;Copper Fill40
+16;;;42.2529;-39.6747;0;Bottom;Copper Fill43
+17;;;34.7235;-26.541;0;Bottom;RichShip's Mega MIDI V1.2
+18;;;46.1264;-4.7751;0;Bottom;Copper Fill33
+19;;;65.2526;-45.6945;0;Bottom;Copper Fill3
+20;;;52.0446;-27.3303;0;Bottom;Copper Fill21
+21;;THT;46.1264;-12.571;-90;Bottom;+5v2
+22;;;79.1464;-18.9229;0;Bottom;Copper Fill19
+23;;;19.3929;-21.9709;0;Bottom;Copper Fill42
+24;;;21.082;-17.7418;0;Bottom;Copper Fill37
+25;;;30.8864;-47.0407;0;Bottom;Copper Fill1
+26;;;79.1464;-49.4029;0;Bottom;Copper Fill4
+27;;THT;39.7764;-41.781;180;Bottom;B2
+28;;;79.1464;-24.0029;0;Bottom;Copper Fill17
+29;;;71.6004;-39.2571;-90;Bottom;OLED1
+30;;THT;46.1264;-10.031;-90;Bottom;Signal5
+31;;;79.1464;-21.4629;0;Bottom;Copper Fill18
+32;;THT;42.3164;-41.781;180;Bottom;B1
+33;;;79.1464;-36.7029;0;Bottom;Copper Fill11
+34;;THT;32.1564;-41.781;180;Bottom;LED1
+35;;THT;4.2164;-29.081;0;Bottom;Midi In
+36;;;79.1464;-41.7829;0;Bottom;Copper Fill9
+37;;THT;46.1264;-7.49104;-90;Bottom;Signal2
+38;;;79.1464;-26.5429;0;Bottom;Copper Fill15
+39;;THT;35.9664;-10.031;-90;Bottom;GND
+40;;THT;41.0464;-12.571;-90;Bottom;+5v3
+41;;;79.1464;-31.6229;0;Bottom;Copper Fill13
+42;;THT;4.2164;-40.511;0;Bottom;Midi Out
+43;;;40.9956;-47.0407;0;Bottom;Copper Fill2
+44;220;THT;11.8364;-43.051;0;Bottom;220
+45;;;71.4502;-7.4675;0;Bottom;Copper Fill28
+46;;THT;29.6164;-41.781;180;Bottom;LED2
+47;220;THT;49.9364;-35.431;180;Bottom;220
+48;;;65.0748;-8.7375;0;Bottom;Copper Fill25
+49;;;79.1464;-39.2429;0;Bottom;Copper Fill10
+50;;;79.1464;-34.1629;0;Bottom;Copper Fill12
+51;;;23.8252;-26.8477;0;Bottom;Copper Fill16
+52;;;51.2064;-4.7751;0;Bottom;Copper Fill35
+53;;;68.9864;-31.6991;0;Bottom;Copper Fill6
+54;;THT;35.9664;-12.571;-90;Bottom;+5v
+55;;THT;51.2064;-7.49104;-90;Bottom;Signal1
+56;;;38.5064;-4.7751;0;Bottom;Copper Fill30
+57;;;79.1464;-11.3029;0;Bottom;Copper Fill24
+58;4.7k;THT;21.9964;-22.731;-90;Bottom;4.7k
+59;;;60.0329;-21.0311;0;Bottom;Copper Fill38
+60;;;60.9092;-38.011;0;Bottom;Copper Fill36
+61;;;36.2966;-40.551;0;Bottom;Copper Fill45
+62;;;79.1464;-13.8429;0;Bottom;Copper Fill22
+63;;THT;35.9664;-7.49104;-90;Bottom;Signal
+64;;THT;51.2064;-10.031;-90;Bottom;Signal4
+65;;;43.5864;-4.7751;0;Bottom;Copper Fill32
+66;;;79.1464;-46.8629;0;Bottom;Copper Fill7
+67;;;35.9664;-4.7751;0;Bottom;Copper Fill29
+68;;;18.5626;-15.0171;0;Bottom;TXT1
+69;;;79.1464;-29.0829;0;Bottom;Copper Fill14
+70;;THT;41.0464;-10.031;-90;Bottom;Signal6
+71;;THT;51.2064;-12.571;-90;Bottom;+5v1
+72;;THT;41.0464;-7.49104;-90;Bottom;Signal3
+73;;THT;37.2364;-41.781;180;Bottom;B3
+74;;;60.7822;-20.2818;0;Bottom;Copper Fill39
+75;;;27.0637;-1.6763;0;Bottom;Copper Fill41
+76;;;48.6664;-4.7751;0;Bottom;Copper Fill34
